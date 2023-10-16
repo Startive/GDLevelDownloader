@@ -1,2 +1,2 @@
 # GDLevelDownloader
-yea
+Downloads Geometry Dash Levels
